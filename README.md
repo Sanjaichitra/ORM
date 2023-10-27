@@ -45,7 +45,8 @@ class footballplayerAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-10-13 092435.png>)
+![Screenshot 2023-10-13 091036](https://github.com/Sanjaichitra/ORM/assets/144870518/8ab51648-dc2f-489b-9082-ffb991d1cb41)
+
 
 
 
